@@ -8,7 +8,7 @@ Computer_score = 0
 
 
 
-print("Welcome to Hangman!")
+print("Welcome to Rock Paper Scissors!")
 ans = input("Choose 'r' for rock, 'p' for paper, 's' for scissors ")
 
 while num_turns > 0:
